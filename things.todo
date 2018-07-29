@@ -1,0 +1,16 @@
+☐ Move state from components into redux store
+☐ Propagate info from store into components using connect method
+☐ single reducer handling actions
+☐ Components handle user interaction by dispatching actions to store
+☐ Design state and connect components
+☐ add dummy data to make sure data is displayed and propagated correctly
+list of things user can do in game:
+    ✔ Start new game @done (7/29/2018, 2:29:33 PM)
+    ✔ Make a guesses @done (7/29/2018, 1:55:56 PM)
+    ✔ Display feedback @done (7/29/2018, 2:29:31 PM)
+    ☐ Generate aural update
+
+
+☐ imprelement one at a time
+
+
