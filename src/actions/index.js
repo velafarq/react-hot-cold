@@ -15,8 +15,7 @@ export const displayFeedback = feedback => ({
   feedback
 });
 
-export const AURAL_STATUS = "AURAL_STATUS";
-export const auralStatus = auralStatus => ({
-  type: AURAL_STATUS,
-  auralStatus
+export const GENERATE_AURAL_UPDATE = "GENERATE_AURAL_UPDATE";
+export const generateAuralUpdate = () => ({
+  type: GENERATE_AURAL_UPDATE
 });
